@@ -1,1 +1,1 @@
-this is a file that contains nothing
+this file is empty
